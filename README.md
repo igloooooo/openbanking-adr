@@ -1,4 +1,4 @@
-##Open Banking - ADR
+## Open Banking - ADR
 Open Banking ADR - is the data recipient implementation following the ACCC requirement.
 
 ### Modules
