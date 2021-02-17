@@ -1,0 +1,11 @@
+{
+  "name": "ob-dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Nicholas Zhu <nichols.zu@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "natsboard": "5.0.0"
+  }
+}

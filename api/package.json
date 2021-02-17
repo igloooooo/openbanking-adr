@@ -1,0 +1,14 @@
+{
+  "name": "ob-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Nicholas Zhu <nichols.zu@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "17.3.1",
+    "hemera-jaeger": "4.0.4",
+    "hapi-hemera": "4.2.1",
+    "nats": "0.8.4"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "ob-consent-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Nicholas Zhu <nichols.zu@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "0.21.0",
+    "hemera-jaeger": "4.0.4",
+    "hemera-joi": "5.2.1",
+    "hemera-mongo-store": "6.0.0",
+    "mongodb": "3.6.3",
+    "nats": "0.8.4",
+    "nats-hemera": "^5.3.0"
+  }
+}
